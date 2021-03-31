@@ -1,6 +1,10 @@
-<h1 align="center">SMS Bomber By Dasun Pamod</h1>
+<h1 align="center">SMS Bomber By Ehi Podda</h1>
 
 <p align="center">  A SMS bomber For Sri Lankan Numbers.</p><br>
+
+## Notes
+ආතල් සදහා පමණයි! 😇
+අවුලක් උනොත් @ehipodda එකට ඇවිත් කියන්න!!
 
 ## User Note to Termux :
 
@@ -10,7 +14,7 @@ apt update && apt upgrade -y
 
 apt install git python -y
 
-git clone https://github.com/dasunpamod/lkbomber.git
+git clone https://github.com/OfficialBawwa/EhiPodda-SMS_Bomber.git
 
 cd lkbomber
 
