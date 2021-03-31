@@ -28,6 +28,8 @@ ____
 
 (This Project contain some content from  https://github.com/Sl-Sanda-Ru/Sl-Bomber.git.,  https://github.com/TheSpeedX/TBomb Maybe some rights reserved by them)
 
-<p style="color:green ">Copyright Dasun®</p>
+<p style="color:green ">Special Thanks - 🎭 Dasun 🇱🇰 Pamod 🎭 </p>
+</p>A project by Bawwa Official 🇱🇰</p>
+</p>Owned by Ehi Podda </p>
 
 
