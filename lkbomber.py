@@ -24,8 +24,10 @@ logo=("""
 ╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
 Special Thanks - 🎭 Dasun 🇱🇰 Pamod 🎭
+Idea by Net Hunter
 A project by Bawwa Official 🇱🇰
 Owned by GOH (Gang Of Hackers 🇱🇰)
+Powered by Network Hacker and Ehi Podda
 """)
 bar=f'{random.choice(fore)}\x1b[1m_________________________{random.choice(fore)}_________________________\x1b[0m'
 print(bar+'\n')
