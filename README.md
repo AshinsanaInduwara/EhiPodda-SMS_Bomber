@@ -8,7 +8,7 @@
 
 ## User Note to Termux :
 
-```bash
+```bhash
 
 apt update && apt upgrade -y
 
