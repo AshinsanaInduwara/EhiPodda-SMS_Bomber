@@ -8,7 +8,7 @@
 
 ## User Note to Termux :
 
-```bhash
+```bash
 
 apt update && apt upgrade -y
 
@@ -16,7 +16,7 @@ apt install git python -y
 
 git clone https://github.com/OfficialBawwa/EhiPodda-SMS_Bomber.git
 
-cd lkbomber
+cd EhiPodda-SMS_Bomber
 
 pip3 install -r requirements.txt
 
