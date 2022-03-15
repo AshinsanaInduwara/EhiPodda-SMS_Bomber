@@ -247,14 +247,7 @@ if cho==1:
 		count=0
 		if times.isnumeric():
 			while count< int(times):
-				dtamart(num,delay)
-				count+=1
-				prsent(count,num)
-				if count<int(times):
-					dtamart2(num,delay)
-					count+=1
-					prsent(count,num)
-					if count<int(times):
+			
 						yogo(num,delay)
 						count+=1
 						prsent(count,num)
