@@ -35,6 +35,6 @@ ____
 <p style="color:green ">Special Thanks - 🎭 Dasun 🇱🇰 Pamod 🎭 </p>
 </p>Idea by Net Hunter</p>
 </p>A project by Bawwa Official 🇱🇰</p>
-</p>Owned by GOH 🇱🇰 </p>
+</p>Remake by Im_Induwara </p>
 
 
