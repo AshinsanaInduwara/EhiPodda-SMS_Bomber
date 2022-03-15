@@ -16,7 +16,7 @@ apt install git python -y
 
 git clone https://github.com/AshinsanaInduwara/SmsBomber
 
-cd EhiPodda-SMS_Bomber
+cd SmsBomber
 
 pip3 install -r requirements.txt
 
