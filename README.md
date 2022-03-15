@@ -1,4 +1,4 @@
-<h1 align="center">SMS Bomber By Ehi Podda</h1>
+<h1 align="center">SMS Bomber By Ehi Podda Updated by Im_Induwara</h1>
 
 <p align="center">  A SMS bomber For Sri Lankan Numbers.</p><br>
 
@@ -14,7 +14,7 @@ apt update && apt upgrade -y
 
 apt install git python -y
 
-git clone https://github.com/OfficialBawwa/EhiPodda-SMS_Bomber.git
+git clone https://github.com/AshinsanaInduwara/SmsBomber
 
 cd EhiPodda-SMS_Bomber
 
