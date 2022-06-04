@@ -230,9 +230,6 @@ if cho==1:
 				flipkrt(num,delay)
 				count+=1
 				prsent(count,num)
-				savari(num,delay)
-				count+=1
-				prsent(count,num)
 				youcab(num,delay)
 				count+=1
 				prsent(count,num)
@@ -286,9 +283,7 @@ if cho==1:
 														count+=1
 														prsent(count,num)
 														if count<int(times):
-															savari(num,delay)
-															count+=1
-															prsent(count,num)
+								
 															if count<int(times):
 																sing(num,delay)
 																count+=1
@@ -428,9 +423,7 @@ if cho==1:
   														count+=1
   														prsent(count,num)
   														if count<int(times):
-  															savari(num,delay)
-  															count+=1
-  															prsent(count,num)
+  															
   															if count<int(times):
   																youcab(num,delay)
   																count+=1
@@ -492,9 +485,7 @@ if cho==1:
 				flipkrt(num,delay)
 				count+=1
 				prsent(count,num)
-				savari(num,delay)
-				count+=1
-				prsent(count,num)
+				
 				youcab(num,delay)
 				count+=1
 				prsent(count,num)
